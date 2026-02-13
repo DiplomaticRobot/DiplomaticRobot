@@ -4,7 +4,7 @@
 
 I am the **CTO & Co-Founder** of [Somni Game Studios](https://startupshub.catalonia.com/startup/tarragona/stepland/7417), where we are building a mobile video game around healthy habits — and also proving that you can ship a commercial mobile live-ops game entirely in [Godot](https://godotengine.org).
 
-I am part of the [godot-mobile-plugins](https://github.com/godot-mobile-plugins) organization, where we build open-source Godot plugins that provide unified GDScript interfaces for mobile platforms (Android & iOS), including deep links, notifications, in-app reviews, OAuth 2.0, native camera, QR codes, Firebase, and more.
+I am part of the [godot-mobile-plugins](https://github.com/godot-mobile-plugins) organization, where we build open-source Godot plugins that provide unified GDScript interfaces for mobile platforms (Android & iOS).
 
 I created the [Dev Blob](https://diplomaticrobot.github.io/devblob/) blog to post about the challenges we face on this journey.
 
